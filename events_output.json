@@ -43,7 +43,7 @@
   },
   {
     "day": "Sa. 16.05.",
-    "timeSlot": "08:00 - 09:00",
+    "timeSlot": "08:00 - 21:00",
     "title": "Nakba78 Demo",
     "speakers": null
   },
@@ -104,8 +104,14 @@
   {
     "day": "Mo. 11.05.",
     "timeSlot": "10:00 - 12:00",
-    "title": "Die Rolle von Big Data (z.B. Palantir) im Genozid und autoritärem Staatsumbau (ENG)",
+    "title": "Die Rolle von Big Data im Genozid und autoritärem Staatsumbau (ENG)",
     "speakers": "NoTech4Apartheid"
+  },
+  {
+    "day": "Mo. 11.05.",
+    "timeSlot": "10:00 - 12:00",
+    "title": "Kriegsgeilheit  als Trend – Auswirkungen der Militarisierung in Hamburg",
+    "speakers": "David Stoop"
   },
   {
     "day": "Di. 12.05.",
@@ -135,18 +141,18 @@
     "day": "Do. 14.05.",
     "timeSlot": "10:00 - 12:00",
     "title": "Wo fängt BDS an?",
-    "speakers": null
+    "speakers": "BDS Berlin"
   },
   {
     "day": "Do. 14.05.",
     "timeSlot": "10:00 - 12:00",
-    "title": "Sudan",
+    "title": "tba",
     "speakers": null
   },
   {
     "day": "Fr. 15.05.",
     "timeSlot": "10:00 - 12:00",
-    "title": "Der Hauptfeind steht im eigenen Land - Krise des dt.Imperialismus",
+    "title": "Der Hauptfeind steht im eigenen Land - Krise des deutschen Imperialismus",
     "speakers": "Ramsis Kilani"
   },
   {
@@ -194,20 +200,20 @@
   {
     "day": "Sa. 09.05.",
     "timeSlot": "13:00 - 15:00",
-    "title": "Wie können wir unsere Kämpfe verbinden?",
+    "title": "Bridging struggels - what does real solidarity mean? (ENG)",
     "speakers": "Hebh Jamal, Judith Scheytt, Moshtari Hilal"
   },
   {
     "day": "So. 10.05.",
     "timeSlot": "13:00 - 15:00",
     "title": "Streiks in den Schulen",
-    "speakers": "Schüler:innen gegen Militarisierung"
+    "speakers": "Schulstreikkomitee Hamburg"
   },
   {
     "day": "So. 10.05.",
     "timeSlot": "13:00 - 15:00",
-    "title": "Ist palästinensischer Nationalismus antikolonial? - Kolonialismus, Nationalismus und Palästina - was Deutsche und Europäer nicht verstehen",
-    "speakers": "ODS-Initiative"
+    "title": "Ist palästinensischer Nationalismus antikolonial? - Kolonialismus, Nationalismus und Palästina - was Deutsche und Europäer nicht verstehen (ENG)",
+    "speakers": "Saman Hasan\nYassin Beituni (ODSI)"
   },
   {
     "day": "Mo. 11.05.",
@@ -218,20 +224,20 @@
   {
     "day": "Mo. 11.05.",
     "timeSlot": "13:00 - 15:00",
-    "title": "Lateinamerika/Kuba",
+    "title": "tba",
     "speakers": null
   },
   {
     "day": "Di. 12.05.",
     "timeSlot": "13:00 - 15:00",
-    "title": "Philippines to Palestine - an Overview on US imperialism and colonialism",
-    "speakers": "Siegfred Deduro & Alpas Pilipinas"
+    "title": "Philippines to Palestine - an Overview on US imperialism and colonialism (ENG)",
+    "speakers": "Siegfred Deduro, Alpas Pilipinas"
   },
   {
     "day": "Di. 12.05.",
     "timeSlot": "13:00 - 15:00",
-    "title": "Grundlagen: Warum gibt es Krieg? Was ist Imperialismus?",
-    "speakers": "Christin Bernhold"
+    "title": "Verschiebungen in der imperialistischen Kette und die Rolle Deutschlands",
+    "speakers": "Christin Bernhold, Sören Horn"
   },
   {
     "day": "Mi. 13.05.",
@@ -252,22 +258,40 @@
     "speakers": "Thawra, BDS Berlin, Jüdische Stimme, ELSC"
   },
   {
+    "day": "Do. 14.05.",
+    "timeSlot": "13:00 - 15:00",
+    "title": "Wer verdient am Krieg?",
+    "speakers": "Lizzy Schubert"
+  },
+  {
     "day": "Fr. 15.05.",
     "timeSlot": "13:00 - 15:00",
-    "title": "Die Kontinuität und Verbindungen zwischen dem palästinensischen Befreiungskampf und Befreiungskämpfen auf dem afrikanischen Kontinent",
-    "speakers": "Migrantifa Rhein-Main"
+    "title": "Kämpfe verbinden - was bedeutet die Gleichzeitigkeit verschiedener struggles für unsere Praxis als soziale Bewegung",
+    "speakers": "tba"
+  },
+  {
+    "day": "Fr. 15.05.",
+    "timeSlot": "13:00 - 15:00",
+    "title": "Asylrecht? Das war mal",
+    "speakers": "Inga Mathes"
   },
   {
     "day": "Sa. 09.05.",
     "timeSlot": "15:00 - 17:00",
     "title": "Keine Hilfe? - Zur Situation der Hilfsorganisationen in Palästina und Libanon",
-    "speakers": "Cadus, IPPNW, medico"
+    "speakers": "CARE, IPPNW, medico international"
+  },
+  {
+    "day": "Sa. 09.05.",
+    "timeSlot": "15:00 - 17:00",
+    "title": "Komitee gegen das Verbot der Palästina Solidariät Duisburg",
+    "speakers": null
   },
   {
     "day": "So. 10.05.",
     "timeSlot": "15:00 - 17:00",
     "title": "Hafenarbeiter:innen aller Länder! - Streiks, Blockaden, Widerstand",
-    "speakers": "CAMLP, Mo"
+    "speakers": "Mo Anker, tba"
   },
   {
     "day": "Mo. 11.05.",
@@ -279,7 +303,7 @@
     "day": "Mo. 11.05.",
     "timeSlot": "15:00 - 17:00",
     "title": "Patriarchat & Militarisierung - Wie hängt das zusammen?",
-    "speakers": "Pride Rebellion"
+    "speakers": "Pride Rebellion, Zora"
   },
   {
     "day": "Di. 12.05.",
@@ -291,19 +315,19 @@
     "day": "Di. 12.05.",
     "timeSlot": "15:00 - 17:00",
     "title": "Gaza Flotillas und die Blockade von Gaza",
-    "speakers": null
+    "speakers": "Yasemin Acar"
   },
   {
     "day": "Mi. 13.05.",
     "timeSlot": "15:00 - 17:00",
-    "title": "Zerstörung des medizinischen Sektors in Gaza, Rolle des medizinischen Sektors im Widerstand gegen Besatzung",
+    "title": "Zerstörung des medizinischen Sektors in Gaza, Rolle des medizinischen Sektors im Widerstand gegen Besatzung (ENG)",
     "speakers": "Diana Nazzal"
   },
   {
     "day": "Mi. 13.05.",
     "timeSlot": "15:00 - 17:00",
-    "title": "Geopolitische Analyse der aktuellen Situation in Westasien",
-    "speakers": null
+    "title": "Digitaler Widerstand -\nTechnologie für Palästina jenseits von Big Tech",
+    "speakers": "Cesar Lizarazo"
   },
   {
     "day": "Do. 14.05.",
@@ -312,16 +336,22 @@
     "speakers": "Sanitätsnetzwerk Hamburg"
   },
   {
-    "day": "Fr. 15.05.",
+    "day": "Do. 14.05.",
     "timeSlot": "15:00 - 17:00",
-    "title": "Kämpfe verbinden Panel",
-    "speakers": "Kurdische Genossin Hamburg, sudanesischer Genosse, AARPP"
+    "title": "Graffiti Workshop",
+    "speakers": null
+  },
+  {
+    "day": "Fr. 15.05.",
+    "timeSlot": "15:00 - 18:00",
+    "title": "Die Kontinuität und Verbindungen zwischen dem palästinensischen Befreiungskampf und Befreiungskämpfen auf dem afrikanischen Kontinent",
+    "speakers": "Migrantifa Rhein-Main"
   },
   {
     "day": "So. 10.05.",
     "timeSlot": "16:00 - 18:00",
     "title": "Akademischer Boykott an den Unis - welche Rolle spielt die Waffenforschung?",
-    "speakers": "Academic Boycott Now Kampagne und Bengt Rüstemeier"
+    "speakers": "Academic Boycott Now Kampagne und Bengt Rüstemeier (GEW)"
   },
   {
     "day": "Sa. 09.05.",
@@ -330,22 +360,46 @@
     "speakers": "Dr. Fuad Zeidan"
   },
   {
+    "day": "So. 10.05.",
+    "timeSlot": "17:00 - 18:00",
+    "title": "Dabke Palestinian Dance Workshop",
+    "speakers": "Dalauna"
+  },
+  {
     "day": "Di. 12.05.",
     "timeSlot": "17:00 - 18:00",
     "title": "DGB-Histadrut Partnerschaft - Parallele zwischen deutsche und US Gewerkschaftsbewegung",
     "speakers": "Stop Arming Israel"
   },
   {
+    "day": "Di. 12.05.",
+    "timeSlot": "17:00 - 18:00",
+    "title": "Tatreez Workshop",
+    "speakers": "Diaspora Tatreetz"
+  },
+  {
     "day": "Mi. 13.05.",
     "timeSlot": "17:00 - 18:00",
-    "title": "Lernen von der internationalen Palästinabewegung",
-    "speakers": "Labor4Palestine US (Jeff Schuhrke)"
+    "title": "Lernen von der internationalen Palästinabewegung (online) (ENG)",
+    "speakers": "Jeff Schuhrke (Labor4Palestine US)"
+  },
+  {
+    "day": "Mi. 13.05.",
+    "timeSlot": "17:00 - 18:00",
+    "title": "Feel Things - Make Zines",
+    "speakers": "Kai und Fritzi"
   },
   {
     "day": "Do. 14.05.",
     "timeSlot": "17:00 - 18:00",
     "title": "Make genocide deniers shut the f*** up: Learn the basics of genocide studies",
     "speakers": "Melina Borčak"
+  },
+  {
+    "day": "Fr. 15.05.",
+    "timeSlot": "17:00 - 18:00",
+    "title": "Oud player | Singer",
+    "speakers": "Dima Muqbel"
   },
   {
     "day": "Sa. 09.05.",
@@ -398,20 +452,20 @@
   {
     "day": "So. 10.05.",
     "timeSlot": "19:00 - 21:00",
-    "title": "78 years Nakba: Free Palestine, but how?",
-    "speakers": "Dr. Mustafa Albarguthi, Yassin Beituni"
+    "title": "78 years Nakba: Free Palestine, but how? (hybrid) (ENG)",
+    "speakers": "Dr. Mustafa Albarguthi, Yassin Beituni (ODSI)"
   },
   {
     "day": "Mo. 11.05.",
     "timeSlot": "19:00 - 21:00",
     "title": "Rüstungsindustrie und Gewerkschaften",
-    "speakers": "Michael Heldt, Christos Paralis (IGM)u.a. IMI"
+    "speakers": "Michael Heldt (ver.di, IGBCE), Christos Paralis (IGM), Jacqueline Andres (IMI), Jakob Waidner, (LAG Betrieb und Gewerkschaft der Linken Berlin)"
   },
   {
     "day": "Di. 12.05.",
     "timeSlot": "19:00 - 21:00",
-    "title": "Vom Genozid zum Ökozid in Palästina",
-    "speakers": "Louisa Schneider, Judith Scheytt, Elisa Bas, Mitzi Jonelle"
+    "title": "Vom Genozid zum Ökozid in Palästina (ENG)",
+    "speakers": "Judith Scheytt, Elisa Bas, Mitzi Jonelle"
   },
   {
     "day": "Mi. 13.05.",
@@ -428,7 +482,7 @@
   {
     "day": "Fr. 15.05.",
     "timeSlot": "19:00 - 21:00",
-    "title": "“Du bist der Feind, wir befinden uns im Krieg, es wird keine Befreiung geben” Addameer Report 2026 über Palästinensische Gefangene und “Israelisierung” des Rechtsstaates",
+    "title": "“Du bist der Feind, wir befinden uns im Krieg, es wird keine Befreiung geben” Addameer Report 2026 über Palästinensische Gefangene und “Israelisierung” des Rechtsstaates (hybrid) (ENG)",
     "speakers": "Adameer Report, Law for Palestine, Nadija Samour"
   }
 ]
